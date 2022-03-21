@@ -30,8 +30,13 @@ function isTriangle(a,b,c) {
 ====
 
 ##__Experience__
+====
 
 ##__Education__
 * __Belarusian National Technical University__
     + Economics and management
+====
 
+##__Languages__
+* __Russian__ - native speaker
+* __English__ - A2
