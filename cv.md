@@ -11,14 +11,14 @@
 
 ##__About Me__ 
 I'm 39 years old. My experience in the economic direction is 17 years. Now I am actively studying IT specialty. I have an analytical mindset, high efficiency, concentration of attention. These qualities allow me to achieve good results.
-====
+===
 
 ##__Skills__ 
 * HTML
 * CSS
 * JavaScript
 * Git
-====
+===
 
 ##__Code Examples__ 
 ```
@@ -27,7 +27,7 @@ function isTriangle(a,b,c) {
   else return false;
 }
 ```
-====
+===
 
 ##__Experience__ 
 ===
