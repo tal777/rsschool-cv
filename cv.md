@@ -1,7 +1,7 @@
-# __Aliaksei Talaika__
+# __Aliaksei Talaika__ #
 ====
 
-## __Contacts__
+## __Contacts__ ##
 * __Location:__ Minsk, Belarus
 * __GitHub:__ [https://github.com/tal777](tal777)
 * __Phone:__ +375 29 7549726
